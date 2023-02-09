@@ -14,8 +14,6 @@ class Consize < Formula
       bin.install "consize"
       bin.install Dir["lib"]
       bin.install Dir["src"]
-      prefix.install "README.md"
-      prefix.install "LICENSE"
     end
   
   end
