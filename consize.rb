@@ -1,8 +1,8 @@
 class Consize < Formula
     desc "Consize converts and resize JPEG and PNG to WEBP format."
     homepage "https://consize.codewithshin.com"
-    url "https://github.com/shinokada/consize/archive/refs/tags/v0.5.6.tar.gz"
-    sha256 "c57a25561ef71104c99eaa26fde2945b327c0c210fbaf527ef443b1737f03ae6"
+    url "https://github.com/shinokada/consize/archive/refs/tags/v0.5.8.tar.gz"
+    sha256 "a309e0bcfea40af73526e3f93b630232478867da5767efeddd5d988bd0169288"
     license "MIT"
   
     depends_on "imagemagick"
